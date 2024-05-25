@@ -109,7 +109,7 @@ To know about the Qr:
 
 online picutre:
 
-[Arbaz](https://photos.google.com/search/_cAF1QipNTjKa84qzr0GIHK8xscH2InOWrMnhyHNc_Arbaaz/photo/AF1QipPAB8mRsUrN1rgCcoEfNmCoTrYRHAvzPorbr6ES)
+[Arbaz](https://photos.google.com/photo/AF1QipPDy6kdcP9u0t7fpLe9C-qJu3v4EEoF1X08xrxD)
 
 
 # 10- Adding code or code block
